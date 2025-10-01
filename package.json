@@ -14,6 +14,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@next/third-parties": "^15.5.4",
     "@portabletext/to-html": "^3.0.0",
     "@sanity/code-input": "^6.0.1",
     "@sanity/dashboard": "^5.0.0",
